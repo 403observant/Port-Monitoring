@@ -14,3 +14,6 @@ A Python program that tracks network port activity in real-time, logging newly o
 
 ## Usage
 Run the script to monitor your system's network activity in real-time.
+
+## Screenshot
+![image](https://github.com/user-attachments/assets/ee85f7b5-492e-400b-a5d9-fd6769397d90)
